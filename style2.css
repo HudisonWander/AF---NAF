@@ -1,0 +1,34 @@
+body {
+    background-color: #006B64;
+}
+
+.bloco {
+    background-color: #E9E9E9;
+    width: 550px;
+    height: 350px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    border-radius: 15px;
+    margin-left: 670px;
+    margin-top: 280px;
+}
+
+p {
+    font-size: 18px;
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#inicio {
+    color: red;
+}
+
+hr.dashed {
+    border-top: 1px dashed #bbb;
+}
