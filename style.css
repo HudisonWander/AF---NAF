@@ -1,98 +1,34 @@
 body {
-    font-family: 'Roboto', sans-serif;
     background-color: #006B64;
-    color: #fff
+}
+
+.bloco {
+    background-color: #E9E9E9;
+    width: 550px;
+    height: 350px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    border-radius: 15px;
+    margin-left: 670px;
+    margin-top: 280px;
+}
+
+p {
+    font-size: 18px;
+    font-weight: bold;
+    padding-top: 10px;
 }
 
 a {
     text-decoration: none;
-    color: yellow;
 }
 
-#login {
-    text-align: center;
-    justify-content: center;
-    align-items: center;
-    display: flex;
-    flex-direction: row;
-    margin-top: 110px;
+#inicio {
+    color: red;
 }
 
-.nome input {
-    border-radius: 15px;
-    border: none;
-    width: 250px;
-    height: 40px;
-    padding-left: 15px;
-    background-color: #E9E9E9;
-    color: #000000;    
-    margin-bottom: 15px;
-}
-
-
-.matricula input {
-    border-radius: 15px;
-    border: none;
-    width: 250px;
-    height: 40px;
-    padding-left: 15px;
-    background-color: #E9E9E9;
-    color: #000000;
-    margin-bottom: 15px;
-}
-
-.email input {
-    border-radius: 15px;
-    border: none;
-    width: 250px;
-    height: 40px;
-    padding-left: 15px;
-    background-color: #E9E9E9;
-    color: #000000;
-}
-
-.senha input {
-    border-radius: 15px;
-    border: none;
-    width: 250px;
-    height: 40px;
-    padding-left: 15px;
-    background-color: #E9E9E9;
-    color: #000000;
-    margin-top: 15px;
-}
-
-.entrar input {
-    cursor: pointer;
-    width: 120px;
-    height: 40px;
-    border-radius: 20px;
-    border: none;
-    background-color: #E9E9E9;
-    color: #534f4f;
-}
-
-input::placeholder {
-    color: #534f4f;
-}
-
-h1 {
-    color: #E9E9E9
-}
-
-.caixa {
-    margin-top: 65px;
-}
-
-.caixa img {
-    width: 300px;
-}
-
-.perfil input, label {
-    margin-top: 15px;
-    color: #E9E9E9;    
-}
-
-input:focus {
-    outline: none;
+hr.dashed {
+    border-top: 1px dashed #bbb;
 }
