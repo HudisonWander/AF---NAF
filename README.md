@@ -11,4 +11,4 @@ Nosso MVP contém uma página de login, cadastro, uma página caso a pessoa tenh
 
 # Informações Adicionais:
 Não criamos o sistema de agendamento diretamente no nosso site (html/css) por dificuldade técnica e falta de aptidão para esse assunto. 
-Por isso utilizamos um site externo, gratuito, que fará todos os procedimentos de forma rápida e eficaz, sem perder a praticidade do nosso modelo inicial.
+Por isso utilizamos um site externo, que fará todos os procedimentos de forma rápida e eficaz, sem perder a praticidade do nosso modelo inicial.
